@@ -1,0 +1,8 @@
+.codex
+result
+result-*
+build/
+default.lpak
+*.lpak
+.direnv/
+.envrc
